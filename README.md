@@ -1,9 +1,9 @@
 # NOME DO PRODUTO
 
 ## Equipe
-* Aluno 1
-* Aluno 2
-* Aluno 3
+* Bernnardo Pestana
+* Alex Junior
+* Danilo Acácio
 
 ## 1. Visão 
 _Forneça uma declaração que resuma o problema que sendo resolvido pelo sistema. O seguinte formato pode ser usado._
