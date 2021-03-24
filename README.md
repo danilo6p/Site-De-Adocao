@@ -15,7 +15,8 @@ _Forneça uma descrição dos papéis ou persona envolvidos ou interessados no p
 
 | Nome                      | Descrição     |
 | -------------             |:-------------:|
-| Nome do papel ou persona  | Descrição do papel ou persona |
+| Doador  | Pessoa que ira anunciar animais para adoção |
+| Adotante  | Pessoa que procura animal(s) para adotar |
 
 ## 3. Product Backlog
 _O product backlog é basicamente uma lista priorizada de requisitos, estórias, features ou restrições. Coisas que o cliente ou usuário deseja descritas utilizando a terminologia do ambiente de negócios cliente ou usuário. Ele deverá conter no mínimo dez (20) estórias  de valor priorizadas pela sua importância._ 
