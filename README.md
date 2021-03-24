@@ -3,7 +3,7 @@
 ## Equipe
 * Bernnardo Pestana
 * Alex Junior
-* Danilo Acácio
+* Danilo Acácio de Abreu
 
 ## 1. Visão 
 _Forneça uma declaração que resuma o problema que sendo resolvido pelo sistema. O seguinte formato pode ser usado._
